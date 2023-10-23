@@ -54,6 +54,7 @@
 }
 
 .header__address {
+  width: 33.3%;
   padding-left: 15%;
 }
 
@@ -122,11 +123,13 @@
   border-radius: 0;
   padding: 12px 32px;
   color: #fff;
+  font-family: "Raleway", sans-serif;
   font-weight: 400;
   font-size: 22px;
   line-height: 25.83px;
   text-transform: uppercase;
   background: none;
+  cursor: pointer;
 }
 
 .lots {
@@ -259,6 +262,7 @@
 }
 
 .footer__address {
+  width: 33.3%;
   padding-right: 15%;
 }
 
